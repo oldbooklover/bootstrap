@@ -1,0 +1,50 @@
+[
+    {
+        "name": "A Updater",
+        "dirname": "a-updater",
+        "filename": "a-updater",
+        "version": "3.0.1"
+    },
+    {
+        "name": "Advanced Database Cleaner PRO",
+        "dirname": "advanced-database-cleaner-pro",
+        "filename": "advanced-db-cleaner",
+        "version": "3.2.2"
+    },
+    {
+        "name": "All-in-One WP Migration Google Drive Extension",
+        "dirname": "all-in-one-wp-migration-gdrive-extension",
+        "filename": "all-in-one-wp-migration-gdrive-extension",
+        "version": "2.75"
+    },
+    {
+        "name": "All-in-One WP Migration URL Extension",
+        "dirname": "all-in-one-wp-migration-url-extension",
+        "filename": "all-in-one-wp-migration-url-extension",
+        "version": "2.59"
+    },
+    {
+        "name": "Duplicator Pro",
+        "dirname": "duplicator-pro",
+        "filename": "duplicator-pro",
+        "version": "4.5.10"
+    },
+    {
+        "name": "JetEngine",
+        "dirname": "jet-engine",
+        "filename": "jet-engine",
+        "version": "3.1.4"
+    },
+    {
+        "name": "Perfmatters",
+        "dirname": "perfmatters",
+        "filename": "perfmatters",
+        "version": "2.0.9.50"
+    },
+    {
+        "name": "Yoast SEO Premium",
+        "dirname": "wordpress-seo-premium",
+        "filename": "wp-seo-premium",
+        "version": "20.2.1"
+    }
+]
